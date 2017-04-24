@@ -2,7 +2,8 @@
   "meta": {
     "username": "lrabiet",
     "repositoryName": "patisserie",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "louis.rabiet@gmail.com",
+    "github": "lrabiet",
+    "twitter": "louisrabiet",
+    "facebook": "louisrabiet",
+    "googleplus": "louisrabiet",
+    "instagram": "rabietlouis",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/louisrabiet/",
+    "stackoverflow": ""
   }
 }
