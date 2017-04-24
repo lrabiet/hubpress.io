@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://lrabiet.github.io/patisserie",
+    "hubpress": "https://lrabiet.github.io/patisserie",
+    "theme": "//lrabiet.github.io/patisserie/themes/casper",
+    "images": "https://lrabiet.github.io/patisserie/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
