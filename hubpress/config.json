@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://lrabiet.github.io/patisserie",
     "hubpress": "https://lrabiet.github.io/patisserie",
-    "theme": "//lrabiet.github.io/patisserie/themes/uno",
+    "theme": "//lrabiet.github.io/patisserie/themes/ichi",
     "images": "https://lrabiet.github.io/patisserie/images"
   },
   "initialisationConfigComponent": {
